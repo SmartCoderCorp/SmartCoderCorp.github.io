@@ -1,2 +1,2 @@
-# SmartCoderCorp.github.io
+# SmartCode.github.io
 Organizations Website
